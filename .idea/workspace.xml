@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ecb6202-65fd-4d97-b642-1fece452079a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GolonkaVowels" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqYQiXSMxCNIKRSewBJN5hSoUk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../demo/demo" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GolonkaVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-10.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GolonkaVowels" />
+      <module name="GolonkaVowels" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-10.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-10.0.1" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GolonkaVowels" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1595160253141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1595160253141" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595787547896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595787547896" />
+    <state width="1286" height="154" key="GridCell.Tab.0.bottom" timestamp="1595535576274">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595535576274" />
+    <state width="1286" height="154" key="GridCell.Tab.0.center" timestamp="1595535576274">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595535576274" />
+    <state width="1286" height="154" key="GridCell.Tab.0.left" timestamp="1595535576274">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595535576274" />
+    <state width="1286" height="154" key="GridCell.Tab.0.right" timestamp="1595535576274">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595535576274" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1595161297849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1595161297849" />
+    <state x="196" y="0" key="SettingsEditor" timestamp="1595787368763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="196" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595787368763" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1595787183192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595787183192" />
+    <state x="454" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595533770444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1595533770444" />
+    <state x="350" y="0" key="new project wizard" timestamp="1595787509908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595787509908" />
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup" timestamp="1595161077137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1595161077137" />
+  </component>
+</project>
